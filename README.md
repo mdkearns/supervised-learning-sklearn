@@ -15,5 +15,5 @@ Supervised Learning Models:
     - Gaussian Naive Bayes Classifier
     - Multinomial Naive Bayes Classifier
     - Bernoulli Naive Bayes Classifier
-    
+     
   Support Vector Machines (SVMs)
