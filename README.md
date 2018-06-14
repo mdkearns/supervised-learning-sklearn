@@ -4,6 +4,7 @@ This is a repository for applying supervised learning models to data using the s
 Supervised Learning Models:
 
   Generalized Linear Models (GLMs)
+  
     - Ordinary Least Squares
     - Ridge Regression
     - The Lasso
@@ -12,6 +13,7 @@ Supervised Learning Models:
     - Polynomial Regression
    
   Naive Bayes Classifiers (NBCs)
+  
     - Gaussian Naive Bayes Classifier
     - Multinomial Naive Bayes Classifier
     - Bernoulli Naive Bayes Classifier
